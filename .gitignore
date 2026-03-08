@@ -1,5 +1,2 @@
-*.log
-.DS_Store
-/.idea
-/special
-Thumbs.db
+# Private files - never push to GitHub
+special/
